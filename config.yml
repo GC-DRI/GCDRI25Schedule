@@ -19,7 +19,7 @@ language: "en"
 
 # Start date
 datestart: 2025-01-21
-enddate: 2024-01-24
+enddate: 2025-01-24
 
 # instructors: ["Leanne Fan", "Rebecca Kriesel","Zach Lloyd", "Silvia Rivera Alfaro", "Tuka Al-Sahlani", "Ian Williams", "Lisa Rhody", "Stephen Zweibel"]
 # helpers: ["Stefanos Milkidis"]
@@ -67,7 +67,7 @@ sessions:
    title: "Creating Simulations with Python"
    workshop: creating-simulations
    description: "In this workshop, you will learn how to create very basic simulations in Python. The workshop will employ the logic of Python's 'object-oriented' methodology to create two small simulations: a dice rolling simulation and a Critter simulation that tracks the population growth of an imaginary species of critter based on a variety of factors. These exercises are intended to be a fun introduction to higher-level Python concepts, and to give you a sense of how you can use Python to create simulations that model real-world scenarios."
-- date: 2025-01-24
+ - date: 2025-01-24
    time: 9:30 - 2:00
    title: "Mapping"
    workshop: mapping
