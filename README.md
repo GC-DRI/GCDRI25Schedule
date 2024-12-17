@@ -1,5 +1,5 @@
-# DHRIFT Site Template
+# DHRIFT Institute Links
 
-<https://curious-frangollo-6adf45.netlify.app/inst/?instUser=GC-DRIinstRepo=GCDRI24Schedule>
+Main link: https://app.dhrift.org/inst?instUser=GC-DRI&instRepo=GCDRI25Schedule
 
-This repository is a template used to create new DHRIFT sites.
+Short link: http://cuny.is/gcdri2025
