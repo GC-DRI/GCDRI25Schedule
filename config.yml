@@ -10,7 +10,7 @@ venue: Online, hosted by GC Digital Initiatives
 sponsors: [{ name: 'GCDRI', link: 'https://gcdri.commons.gc.cuny.edu/' }]
 
 # address of event
-location: 365 5th Ave, New York, NY 10016
+location: Zoom
 
 contact: [{ name: 'Lisa Rhody', email: 'lrhody@gc.cuny.edu'}]
 
@@ -29,46 +29,49 @@ workshopsrepo: 'DRI25'
 
 sessions:
  - date: 2025-01-21
-   time: 09:30 - 10:00
+   time: 09:30 - 10:30
    title: "Welcome to GC DRI"
    description: "During this introductory session, we will introduce all of the instructors and get to know one another. We will give an overview of the DHRIFT platform, which is the website we will use for each of the workshops, and we will cover how to use the features of the curriculum website. There will be time to talk about what workshops we will be covering during the coming week, explanations of what platforms we will be using for communication, and discussion about how to ask questions, troubleshoot, and learn more. By the end of this session, you should feel comfortable with the learning environment for GC DRI and know how to ask questions and get help when you need it."
  - date: 2025-01-21
-   time: 10:00 - 2:00 
+   time: 10:00 - 2:30 
    title: "Introduction to the Command Line"
    workshop: command-line
    description: "This workshop will introduce you to the command line, a text-based interface for interacting with your computer. We will cover basic commands, file management, and navigating the file system. Specifically, we will be using a command line interface that has been integrated into DHRIFT, the website we are using for online instruction. The skills we are learning can be used with 'terminal' on Mac or GitBash on Windows computers. You will also be able to use similar syntax when you are using Unix to interact with a server. By the end of this workshop, you will know how to figure out what account you are working in, navigate through a computer's file structures using text commands, create and modify files using text commands, and search for files or strings of text using a text command. These skills are useful when you are installing software on your machine, when you are creating websites with HTML and CSS, or when you are learning how to import data when working with Python."
  - date: 2025-01-21
-   time: 02:30 - 3:30
+   time: 02:30 - 4:00
    title: "Data Literacies"
    workshop: data-literacies
    description: "What is data? What counts as data? What are the ethical implications when working with data? How can we manage our data? These are questions we will explore throughout the workshop. Data is foundational to nearly all digital projects and often help us to understand and express our ideas and narratives. Hence, in order to do digital work, we should know how data is captured, constructed, and manipulated. We will also engage with the ethical dimensions of what it means to work with data, from collection to visualization to management."
  - date: 2025-01-22
-   time: 9:30 - 10:50
+   time: 9:30 - 11:00
    title: "HTML / CSS"
    workshop: html-css
    description: "HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is used for website design and layout. Together, these languages form the foundation of the World Wide Web. They are the basis of what one needs to know to create useful and well-designed websites, and to read the source code of existing websites and website templates. This workshop walks participants through the fundamentals of HTML and CSS. The purpose of this unit is to help participants understand the rudiments of making websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects."
  - date: 2025-01-22
-   time: 11:00 - 4:30 
+   time: 11:00 - 4:00 
    title: "Introduction to Python"
    workshop: python
    description: "Python is a general-purpose programming language suitable for a wide variety of tasks in the digital humanities. Learning Python fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in the distant reading of texts. This workshop first introduces participants to core programming concepts such as data types, variables, and functions. Participants will then learn about basic control flow by writing small programs with loops and conditional statements. They will also learn to problem solve, and practice searching for answers and debugging scripts. The workshop wraps up by exposing participants to intermediate tools for further exploration."
  - date: 2025-01-23
-   time: 9:30 - 11:30
+   time: 9:30 - 12:00
    title: "Data Manipulation in Pandas & Jupyter Notebooks"
    workshop: pandas
-   description: "Python is a general-purpose programming language suitable for a wide variety of tasks in the digital humanities. Learning Python fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in the distant reading of texts. This workshop first introduces participants to core programming concepts such as data types, variables, and functions. Participants will then learn about basic control flow by writing small programs with loops and conditional statements. They will also learn to problem solve, and practice searching for answers and debugging scripts. The workshop wraps up by exposing participants to intermediate tools for further exploration."
+   description: "In this workshop, we are going to learn some basic commands in Pandas, an expansive Python library for working with tabular data like CSV files. You can think of Pandas as a more powerful version of Excel that operates within the Python environment, where you can wrangle, clean, analyze, and visualize data. Knowing how to use Pandas is important if you plan on working with datasets that include qualitative and/or quantitative data points."
  - date: 2025-01-23
-   time: 1:30 - 4:30
+   time: 1:30 - 4:00
    title: "Text Analysis with Python"
    workshop: text-analysis
    description: "Analyzing textual data opens a new way to interrogate the world. Put simply, it is a way to 'read' and interpret the incredible amount of text generated past and present. This workshop will introduce techniques that can help you get a handle on textual data, turn qualitative texts into quantitative objects. We will be using the Natural Language Toolkit (NLTK) package in Python and thinking through how to clean data and start using our analytical muscles to conceptualize and operationalize this textual data."
  - date: 2025-01-24
-   time: 9:30 - 2:00
+   time: 9:30 - 2:30
    title: "Creating Simulations with Python"
    workshop: creating-simulations
    description: "In this workshop, you will learn how to create very basic simulations in Python. The workshop will employ the logic of Python's 'object-oriented' methodology to create two small simulations: a dice rolling simulation and a Critter simulation that tracks the population growth of an imaginary species of critter based on a variety of factors. These exercises are intended to be a fun introduction to higher-level Python concepts, and to give you a sense of how you can use Python to create simulations that model real-world scenarios."
  - date: 2025-01-24
-   time: 9:30 - 2:00
+   time: 9:30 - 2:30
    title: "Mapping"
    workshop: mapping
    description: "In the past decade, interactive maps have become one of the most popular ways to visualize and explore spatial data. Responding to the demand, mapping companies such as ESRI have developed a suite of tools for both creating and contextualizing interactive maps. While extremely helpful, some of the ESRI products are prohibitively expensive for many individuals. This workshop will use a combination of the public version of ESRI Online, which is free, and the free, open-source mapping software QGIS to build an interactive map. By the end of this workshop you will know the basics for making an interactive map that can be shared and embedded in a website. No mapping experience is necessary."
+ - date: 2025-01-24
+   time: 2:30 - 4:00
+   title: "Project Management"
